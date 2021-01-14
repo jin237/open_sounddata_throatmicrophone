@@ -1,1 +1,1 @@
-# open_sounddata_throatmicrophone
+# スロートマイク音質向上のためのトレーニングテータセット
